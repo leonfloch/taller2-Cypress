@@ -1,0 +1,23 @@
+{
+  "name": "taller2-cypress",
+  "version": "1.0.0",
+  "description": "taller2-Cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonfloch/taller2-Cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonfloch/taller2-Cypress/issues"
+  },
+  "homepage": "https://github.com/leonfloch/taller2-Cypress#readme"
+}
